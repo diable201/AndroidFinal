@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AndroidFinal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="country_with_colon">Country:</string>
+    <string name="slug_with_colon">Slug:</string>
+    <string name="iso2_with_colon">ISO2:</string>
+    <string name="country_placeholder">Benin</string>
+    <string name="slug_placeholder">benin</string>
+    <string name="iso2_placeholder">BJ</string>
+    <string name="lat_with_colon">Lat:</string>
+    <string name="coordinate_placeholder">10.00</string>
+    <string name="lon_with_colon">Lon:</string>
+    <string name="confirmed_with_colon">Confirmed</string>
+    <string name="zero">0</string>
+    <string name="deaths_with_colon">Deaths</string>
+    <string name="recovered_with_colon">Recovered</string>
+    <string name="active_with_colon">Active:</string>
+    <string name="date_with_colon">Date:</string>
+    <string name="date_placeholder">2022-05-20</string>
+    <string name="country_code_with_colon">Country code:</string>
+    <string name="country_list_is_loading">Country list is loading. Please wait a moment.</string>
+    <string name="country_detail_list_is_loading">Country details is loading. Please wait a moment.</string>
+    <string name="country_code_placeholder">BJ</string>
+    <string name="list_is_empty">List is empty</string>
+    <string name="country_list">Country List</string>
+    <string name="country_detail_list">Country Detail List</string>
+</resources>
